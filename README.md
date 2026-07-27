@@ -1,6 +1,6 @@
 <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Divakar Chauhan</h1>
+<h1 align="center">Heyyy 👋, I'm DIVAKAR </h1>
 
 <h3 align="center">
 Backend Engineer • Golang Developer • Distributed Systems Enthusiast
@@ -20,9 +20,9 @@ Building scalable backend systems, microservices, and AI-powered applications.
 
 🚀 Backend Engineer passionate about building scalable distributed systems
 
-🏢 Former **SDE Intern @ Zepto** & **Backend Engineer @ GreedyGame**
+🏢 Former SDE Intern **Zepto** & Backend Engineer GreedyGame
 
-🎓 B.Tech CSE @ **RGIPT** (Institute along the lines of IITs)
+🎓 B.Tech CSE **RGIPT** (Institute along the lines of IITs)
 
 💻 Strong in **Data Structures, Algorithms, System Design & Backend Engineering**
 
@@ -36,59 +36,6 @@ Building scalable backend systems, microservices, and AI-powered applications.
 📫 Reach me at **connectdivakar@gmail.com**
 ---
 
-# 💼 Experience
-
-### 🟣 GreedyGame — Backend Engineer
-
-- Built Wallet Deposit Bonus API with RBAC
-- Fixed production retry system affecting 80,000+ callbacks
-- Developed Go microservices for YouTube & Instagram analytics
-
-### 🟢 Zepto — SDE Intern
-
-- Built Nearby Building API using Golang + Tile38
-- Improved service reliability using Circuit Breakers
-- Developed Kill Switch mechanism for production safety
-
----
-
-# 🚀 Featured Projects
-
-## 📌 RFP Automation System
-
-Distributed procurement automation platform using
-
-- React
-- Node.js
-- PostgreSQL
-- Redis
-- BullMQ
-- LLMs
-
-✨ Features
-
-- Email ingestion
-- Background workers
-- Vendor ranking using AI
-- Distributed architecture
-
----
-
-## 📌 VideoToDataset RAG Pipeline
-
-AI pipeline that converts YouTube videos into structured QA datasets.
-
-Tech Stack
-
-- Python
-- RAG
-- Groq LLM
-- PGVector
-- PostgreSQL
-- Docker
-
----
-
 # 🛠 Tech Stack
 
 ### Languages
@@ -96,6 +43,7 @@ Tech Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Backend
 
@@ -132,22 +80,18 @@ Tech Stack
 # 🏆 Achievements
 
 🏅 IIT-JEE Advanced 2021 Qualified
-
 ⭐ 3-Star CodeChef
-
 🧩 Solved 600+ DSA Problems
-
-🎥 Creator of **nxtDCoder** (Interview Prep & DSA)
 
 ---
 
 # 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/divakarrajput1)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/contactdivakar)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:connectdivakar@gmail.com)
+<p align="center">
+  <a href="https://github.com/divakarrajput1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.youtube.com/@nxtDCoder"><img src="https://img.shields.io/badge/YouTube-nxtDCoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/contactdivakar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:connectdivakar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
 
