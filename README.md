@@ -1,25 +1,172 @@
-Heyyy 👋, Ajinkya here!
-Not just another dev
-My Portfolio Website
-0xajinkya
+<img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" width="100%" />
 
-# 💫 About Me: 🔭 Working On My Dream Project Mine.al
-🌱 I’m currently learning Open-CV, Artificial Intelligence And Machine Learning
-💬 Any Queries About --> React JS, React Native, Next JS
-📫 Let's Have A Talk kahaneajinkya051@gmail.com
-⚡ I am what I am because of who we all are.
-🌐 Socials:
-Instagram LinkedIn Twitter
+<h1 align="center">Hi 👋, I'm Divakar Chauhan</h1>
 
-💻 Tech Stack:
-C C++ CSS3 Dart HTML5 Java Kotlin JavaScript Python Solidity TypeScript Google Cloud Firebase Vercel Netlify Heroku Ant-Design Chart.js Chakra Bootstrap Express.js Flutter NPM MUI JWT Next JS NodeJS Semantic UI React SASS Redux React Router React Native React Styled Components TailwindCSS MySQL MongoDB SQLite Figma NumPy Pandas scikit-learn SciPy Postman
+<h3 align="center">
+Backend Engineer • Golang Developer • Distributed Systems Enthusiast
+</h3>
 
-📊 GitHub Stats:
+<p align="center">
+Building scalable backend systems, microservices, and AI-powered applications.
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=divakarrajput1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
+---
 
+# 💫 About Me
 
-🏆 GitHub Trophies
+🚀 Backend Engineer passionate about building scalable distributed systems
 
+🏢 Former **SDE Intern @ Zepto** & **Backend Engineer @ GreedyGame**
 
-✍️ Random Dev Quote
+🎓 B.Tech CSE @ **RGIPT** (Institute along the lines of IITs)
+
+💻 Strong in **Data Structures, Algorithms, System Design & Backend Engineering**
+
+🌱 Currently exploring
+
+- Large Scale Distributed Systems
+- System Design
+- AI Applications & RAG
+- Cloud Native Technologies
+
+📫 Reach me at **connectdivakar@gmail.com**
+---
+
+# 💼 Experience
+
+### 🟣 GreedyGame — Backend Engineer
+
+- Built Wallet Deposit Bonus API with RBAC
+- Fixed production retry system affecting 80,000+ callbacks
+- Developed Go microservices for YouTube & Instagram analytics
+
+### 🟢 Zepto — SDE Intern
+
+- Built Nearby Building API using Golang + Tile38
+- Improved service reliability using Circuit Breakers
+- Developed Kill Switch mechanism for production safety
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 RFP Automation System
+
+Distributed procurement automation platform using
+
+- React
+- Node.js
+- PostgreSQL
+- Redis
+- BullMQ
+- LLMs
+
+✨ Features
+
+- Email ingestion
+- Background workers
+- Vendor ranking using AI
+- Distributed architecture
+
+---
+
+## 📌 VideoToDataset RAG Pipeline
+
+AI pipeline that converts YouTube videos into structured QA datasets.
+
+Tech Stack
+
+- Python
+- RAG
+- Groq LLM
+- PGVector
+- PostgreSQL
+- Docker
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend
+
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go)
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![OAuth](https://img.shields.io/badge/OAuth2-blue?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
+
+### AI & Databases
+
+![LLM](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
+![PGVector](https://img.shields.io/badge/PGVector-blue?style=for-the-badge)
+
+---
+
+# 🏆 Achievements
+
+🏅 IIT-JEE Advanced 2021 Qualified
+
+⭐ 3-Star CodeChef
+
+🧩 Solved 600+ DSA Problems
+
+🎥 Creator of **nxtDCoder** (Interview Prep & DSA)
+
+---
+
+# 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/divakarrajput1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/contactdivakar)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:connectdivakar@gmail.com)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=divakarrajput1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=divakarrajput1&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divakarrajput1&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=divakarrajput1&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+## 💭 Developer Quote
+
+> "First make it work. Then make it scalable. Finally make it beautiful."
