@@ -151,22 +151,6 @@ Tech Stack
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=divakarrajput1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=divakarrajput1&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divakarrajput1&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=divakarrajput1&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 ## 💭 Developer Quote
 
 > "First make it work. Then make it scalable. Finally make it beautiful."
