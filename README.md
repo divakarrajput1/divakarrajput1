@@ -1,6 +1,6 @@
 <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" width="100%" />
 
-<h1 align="center">Heyyy 👋, I'm DIVAKAR </h1>
+<h1 align="center">Heyyy 👋, DIVAKAR here!</h1>
 
 <h3 align="center">
 Backend Engineer • Golang Developer • Distributed Systems Enthusiast
@@ -18,11 +18,13 @@ Building scalable backend systems, microservices, and AI-powered applications.
 
 # 💫 About Me
 
+🏅 IIT-JEE Advanced 2021 Qualified
+
+🎓 B.Tech CSE **RGIPT** (Institute along the lines of IITs)
+
 🚀 Backend Engineer passionate about building scalable distributed systems
 
 🏢 Former SDE Intern **Zepto** & Backend Engineer GreedyGame
-
-🎓 B.Tech CSE **RGIPT** (Institute along the lines of IITs)
 
 💻 Strong in **Data Structures, Algorithms, System Design & Backend Engineering**
 
@@ -77,18 +79,10 @@ Building scalable backend systems, microservices, and AI-powered applications.
 
 ---
 
-# 🏆 Achievements
-
-🏅 IIT-JEE Advanced 2021 Qualified
-⭐ 3-Star CodeChef
-🧩 Solved 600+ DSA Problems
-
----
-
 # 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/divakarrajput1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.youtube.com/@nxtDCoder"><img src="https://img.shields.io/badge/YouTube-nxtDCoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@nxtDCoder"><img src="https://img.shields.io/badge/nxtDCoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://linkedin.com/in/contactdivakar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:connectdivakar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
